@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Kumbh+Sans&display=swap');
+
+main{
+    width: 600px;
+    background: linear-gradient(125deg, rgb(54,81,217),
+    rgb(207,56,148));
+    font-family: "Kumbh Sans";
+}
+
+div{
+    padding: 10px 50px 50px;
+}
+
+h2{
+    color: white;
+    text-shadow: 0px 0px 5px white;
+    font-family: "Kumbh Sans";
+}
+
+.heading{
+    font-size: 17px;
+}
+
+p{
+    color: rgb(247, 187, 247);
+    text-align: justify;
+}
+
+img{
+    max-width: 500px;
+ }
+
+button{
+    color: white;
+    font-weight: bold;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    box-shadow: 0px 0px 5px black;
+}
+
+.OrderNow_button{
+    background: rgb(93, 114, 232);
+}
+
+.OrderNow_button:hover{
+ background-color: rgb(140, 156, 250) ;
+}
+
+
+.LearnMore_button{
+    background: rgb(250, 100, 59);
+    margin-right: 10px;
+}
+
+.LearnMore_button:hover{
+    background-color: rgb(255, 139, 107) ;
+}
